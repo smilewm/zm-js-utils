@@ -1,0 +1,27 @@
+{
+  "name": "z-utils-js",
+  "version": "1.0.0",
+  "description": "a js library containing various common methods",
+  "main": "lib/index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wm3813227",
+  "license": "ISC",
+  "keywords": [
+    "utils",
+    "common",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:smilewm/z-utils-js.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "engines": {
+    "node": ">= 8.16.0"
+  }
+}
